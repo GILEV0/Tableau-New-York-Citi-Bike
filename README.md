@@ -38,3 +38,5 @@ The following are questions you may wish to answer. Do not limit yourself to the
 
     - Create a Tableau story that brings together the visualisations, requested maps, and dashboards.
     - Ensure your presentation is professional, logical, and visually appealing.
+
+I use Tableau Desktop to present the data results and the link to the dashboard is available here: [Tableau Dashboard](https://public.tableau.com/app/profile/victoria.giles/viz/NewYorkCitiBikeAnalysis_16758471146030/Story1?publish=yes)
