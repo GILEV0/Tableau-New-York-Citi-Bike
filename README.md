@@ -39,4 +39,8 @@ The following are questions you may wish to answer. Do not limit yourself to the
     - Create a Tableau story that brings together the visualisations, requested maps, and dashboards.
     - Ensure your presentation is professional, logical, and visually appealing.
 
+Data csv files were selected for March, June, September and December in 2022 as a means of representing each of the four seasons of the year. Due to limitations of Tableau Public being unable to handle more than 15,000,000 rows of data, the complete 12 months of data could not be utilised. I used Jupyter Notebook to merge and analyse the seasons.
+
+Python code: <a href="https://github.com/GILEV0/Tableau-New-York-Citi-Bike/blob/main/NYC_Citibike_Challenge.ipynb"> NY_CitiBike_SeasonalData.ipynb</a>
+
 I use Tableau Desktop to present the data results and the link to the dashboard is available here: [Tableau Dashboard](https://public.tableau.com/app/profile/victoria.giles/viz/NewYorkCitiBikeAnalysis_16758471146030/Story1?publish=yes)
